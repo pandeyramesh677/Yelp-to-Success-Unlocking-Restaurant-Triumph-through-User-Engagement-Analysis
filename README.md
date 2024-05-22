@@ -4,9 +4,17 @@ This project analyzes user engagement data to uncover the key factors driving re
 Link to dataset (Yelp): - https://www.yelp.com/dataset/download<br>
 (Kaggle) - https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset<br>
 
+
 <h1># Objective</h1>
 
 In the highly competitive restaurant industry, understanding the key factors that drive business success is essential for stakeholders aiming to thrive in the market. Despite the wealth of customer feedback available on platforms like Yelp, many restaurant owners and marketers struggle to effectively leverage this data to enhance their business strategies. This project addresses the need to decode the complex relationship between user engagement and business success. By utilizing the Yelp dataset, we aim to investigate how various forms of user engagement—such as reviews, tips, and check-ins—correlate with critical business success metrics, including the review count and ratings of restaurants.
+
+<h1># Metrics Used</h1>
+
+- user engagement
+- sentiment of reviews
+- peak hours
+- impact of elite users
 
 <h1># Insight</h1>
 
